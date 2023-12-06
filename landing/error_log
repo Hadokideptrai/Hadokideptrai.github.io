@@ -1,0 +1,9 @@
+[28-Jan-2022 06:53:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/nguyenti35/public_html/landing/code.php on line 67
+[28-Jan-2022 07:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_get_contens() in /home/nguyenti35/public_html/landing/code.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/nguyenti35/public_html/landing/code.php on line 2
+[28-Jan-2022 07:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function file_get_content() in /home/nguyenti35/public_html/landing/code.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/nguyenti35/public_html/landing/code.php on line 2
